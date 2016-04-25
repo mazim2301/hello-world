@@ -1,3 +1,5 @@
 # hello-world
-My first repository
-Only a test rpository
+
+Hi Humans!
+
+mazim here, I like python, php and embeeded systems.
